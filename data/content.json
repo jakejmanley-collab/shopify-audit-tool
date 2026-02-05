@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "shopify-app-conflict-revenue-loss",
+    "title": "How to Fix Shopify App Conflicts (Revenue Leak Audit)",
+    "pain": "One merchant lost $2,000 in 3 days because an app blocked their 'Add to Cart' button.",
+    "solution": "Open your store, right-click > Inspect > Console. Look for red error messages when clicking buttons."
+  },
+  {
+    "slug": "shopify-mobile-checkout-glitch",
+    "title": "Fixing the Shopify Mobile Checkout Glitch",
+    "pain": "70% of traffic is mobile, but most stores have 'silent' layout errors that prevent payment.",
+    "solution": "Run a 5-Tap test on a physical iPhone to ensure the 'Pay Now' button isn't covered by popups."
+  }
+]
